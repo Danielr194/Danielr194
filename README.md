@@ -1,5 +1,5 @@
-<h2>Ola! Eu sou o Daniel Rocha 👋
-</h2>
+<h1>Ola! Eu sou o Daniel Rocha 👋
+</h1>
 
 <h3>Estudante de Analise e desenvolvimento de sistemas na Sptech - 2/4 🖥️
 </h3>
@@ -9,6 +9,10 @@
 <a href="https://www.instagram.com/daniel_r0cha19/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
 </a>
+
+ <a href="https://www.linkedin.com/in/daniel-rocha-dos-santos-0239a8224">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+    </a>
 
  <div>
     <a href="">
