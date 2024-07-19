@@ -16,10 +16,10 @@
    <h2 style="border-bottom: 3px solid #0000;"></h2>
 </div>
 <div>
-        <img height="100cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 
-        <img height="100cm" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-        <img  height="90cm" align="center"  src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-        <img height="90cm" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+        <img height="60" width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> 
+        <img  height="60" width="60" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+        <img height="60" width="60" align="center"  src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+        <img  height="60" width="60" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
           
 </div>
    <h2 style="border-bottom: 3px solid #0000;"></h2>
